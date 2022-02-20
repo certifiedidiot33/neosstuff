@@ -6,4 +6,6 @@ body {
   }
   p {
     color: rgb(253, 250, 250);
+    font-family: courier;
+  font-size: 160%;
   }
