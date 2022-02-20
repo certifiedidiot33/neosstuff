@@ -3,6 +3,7 @@ body {
   }
   h1 {
     position: center;
+    text-align: center;
     color: rgb(25, 25, 26);
     font-family: verdana;
   font-size: 300%;
