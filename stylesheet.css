@@ -2,7 +2,7 @@ body {
     background-color: powderblue;
   }
   h1 {
-    position: relative;
+    position: center;
     color: rgb(25, 25, 26);
     font-family: verdana;
   font-size: 300%;
