@@ -1,0 +1,15 @@
+!DOCTYPE html>
+<head>
+<title>block placement documentation: texturepacks</title>
+</head>
+<body>
+<p>texture packs allow users to create their own textures to use ingame.</p>
+<h1> How to create a texture pack</h1>
+<p> firstly you have to create the textures e.g making them in photoshop <br>
+secondly you have to upload each texture front,back,left,right,top,bottom of each block <br>
+then download the module script that has the values (note, if you leave a texture blank it will be its default texture)
+</p>
+<hr>
+<p> i willl make this more detailed later</p>
+
+</body>
